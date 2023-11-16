@@ -6,10 +6,10 @@ export default [
         link: 'https://github.com/Jacob-Ismail-Curtis/synthetic-ir-drone-detection',
     },
     {
-        title: 'Portfolio Website',
+        title: 'Project Website',
         imgUrl: '',
         stack: ['ReactJS', 'TailwindCSS', 'Vite'],
-        link: 'https://github.com/Jacob-Ismail-Curtis/portfolio-website',
+        link: 'https://github.com/Jacob-Ismail-Curtis/project-website',
     },
     {
         title: 'GoWander',

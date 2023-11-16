@@ -1,11 +1,11 @@
 import React from 'react'
 
-const PortfolioItem = ({title, imgUrl, stack, link}) => {
+const ProjectItem = ({title, imgUrl, stack, link}) => {
   return (
     <div className="border-2 border-stone-900 rounded-md overflow-hidden">
       <img 
         src={imgUrl}
-        alt="portfolio"
+        alt="project"
         className="w-full h-36 md:h-48 object-cover cursor-pointer"
       />
       <div className="w-full p-4">
@@ -22,4 +22,4 @@ const PortfolioItem = ({title, imgUrl, stack, link}) => {
   )
 }
 
-export default PortfolioItem
+export default ProjectItem
