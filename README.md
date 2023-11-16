@@ -4,7 +4,7 @@ My personal portfolio website built with ReactJS, TailwindCSS and Vite to displa
 
 ## Installing Dependencies
 
-1) Run npm i to install dependencies
+Run npm i to install dependencies
 
 ## Running the app
 
