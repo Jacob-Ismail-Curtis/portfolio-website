@@ -7,7 +7,7 @@ import ResumePDF from '../../public/Resume.pdf';
 function Timeline() {
    return (
       <div className="flex flex-col md:flex-row justify-center my-20 ">
-         <div className="w-full md:w-9/12">
+         <div className="w-full md:w-8/12">
             <Title>Experience</Title>
             {timeline.map(item => (
                <TimelineItem 

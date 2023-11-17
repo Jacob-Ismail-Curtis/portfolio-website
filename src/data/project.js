@@ -1,20 +1,23 @@
 export default [
     {
         title: 'Drone Detection Dissertation',
-        imgUrl: '',
+        imgUrl: 'public/assets/img/drone_detection.png',
         stack: ['Python', 'Pytorch', 'Tensorflow','Blender'],
-        link: 'https://github.com/Jacob-Ismail-Curtis/synthetic-ir-drone-detection',
+        code: 'https://github.com/Jacob-Ismail-Curtis/synthetic-ir-drone-detection',
+        demo: '',
     },
     {
-        title: 'Project Website',
+        title: 'Personal Website',
         imgUrl: '',
         stack: ['ReactJS', 'TailwindCSS', 'Vite'],
-        link: 'https://github.com/Jacob-Ismail-Curtis/project-website',
+        code: 'https://github.com/Jacob-Ismail-Curtis/portfolio-website',
+        demo: '',
     },
     {
-        title: 'GoWander',
+        title: 'Go Wander',
         imgUrl: '',
-        stack: ['ReactNative', 'Firebase'],
-        link: 'https://github.com/Jacob-Ismail-Curtis/GoWander',
+        stack: ['ReactNative', 'Firebase', 'ChatGPT'],
+        code: 'https://github.com/Jacob-Ismail-Curtis/GoWander',
+        demo: '',
     },
 ]
